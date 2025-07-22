@@ -40,13 +40,14 @@ This dashboard analyzes the retail sales performance of various footwear and app
 
 [See More](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MmYxY2UtOWJkNi00YzZiLWE2MTQtOGY4MTFmNmY3YmYyIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**An Analysis on International Breweries Sales Report.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Excel Dashboard.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Tool used: Excel
+In this project, I examined the dataset that was provided by international breweries through with the sole aim to proffer recommendations in order to maximize profit, reduce loss to the lowest minimum and increase sales. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://medium.com/@emmieobisesan/excel-portfolio-project-an-analysis-on-international-breweries-sales-report-8ee4b473258f)
 
 
 ## CONTACT DETAILS
@@ -56,15 +57,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:oluwatobiobisesan9@gmail.com">oluwatobiobisesan9@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 810-914-4932</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -72,19 +73,12 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/oluwatobi-emmanuel-obisesan-b6a51919a/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
 
    
 
 
 
 
-Raw File by Anietie Etuk.txt
-Displaying Raw File by Anietie Etuk.txt.
