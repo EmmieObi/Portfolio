@@ -2,7 +2,8 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Emmanuel Obisesan 🤓, a data analyst, and client management professional with a passion for turning data into actionable insights. With experience across sales, operations, business reporting, and client management, I help businesses solve challenges and unlock growth. This space shows my learning journey, practical projects, and continuous growth in the field of data and analytics.
+Hello! I'm Emmanuel Obisesan 🤓
+I'm a data analyst and client management professional with a passion for turning data into actionable insights. With several years of experience across sales, operations, and client management, I’ve seen firsthand how data drives client retention, operational efficiency, and business growth. This realization sparked my journey into data analysis, where I’ve trained and worked with tools like Power BI, Excel, and SQL to uncover trends, build dashboards, and support smarter decision-making. This GitHub space showcases my learning journey, hands-on projects, and continuous growth in the world of data and analytics.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
