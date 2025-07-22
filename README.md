@@ -22,13 +22,13 @@ Beyond data wrangling, I specialize in generating business insights through data
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Edenbridge Sales Performance Dashboard.**
 ![image](Edenbridge Superstore dashboard.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This project provides a detailed analysis of a superstore's sales performance from 2010 to 2013. It covers key business metrics such as total sales, profit/loss, processing time, customer orders, and regional performance. Through interactive dashboards, I highlighted trends in order volume, sales by region, and top-performing products. The goal was to generate insights that support better decision-making around inventory, customer targeting, and operational efficiency.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[See More](https://app.powerbi.com/view?r=eyJrIjoiODVhYTM1OWMtNjI4OS00NzFiLThhOWEtOTJiZWNiZTVlOTI2IiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
