@@ -33,10 +33,10 @@ This project provides a detailed analysis of a superstore's sales performance fr
 
 **Adidas Retail Sales Performance Analysis.**
 
-![image]()
+![image](Adidas Dashboard.png)
 
 Tool used: Power BI
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+This dashboard analyzes the retail sales performance of various footwear and apparel products across multiple channels in 2020 and 2021. It highlights key metrics such as total sales, total units sold, profit, and sales distribution by retailer, product category, gender, region, and sales method. The insights reveal top-performing retailers, customer preferences, and seasonal trends in monthly sales. The goal was to identify opportunities for growth and optimize sales strategies based on data-driven insights. 
 
 [See More](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MmYxY2UtOWJkNi00YzZiLWE2MTQtOGY4MTFmNmY3YmYyIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
