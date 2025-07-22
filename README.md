@@ -25,18 +25,20 @@ Beyond data wrangling, I specialize in generating business insights through data
 **Edenbridge Sales Performance Dashboard.**
 ![image](Edenbridge Superstore dashboard.png)
 
+Tool used: Power BI
 This project provides a detailed analysis of a superstore's sales performance from 2010 to 2013. It covers key business metrics such as total sales, profit/loss, processing time, customer orders, and regional performance. Through interactive dashboards, I highlighted trends in order volume, sales by region, and top-performing products. The goal was to generate insights that support better decision-making around inventory, customer targeting, and operational efficiency.
 
 
 [See More](https://app.powerbi.com/view?r=eyJrIjoiODVhYTM1OWMtNjI4OS00NzFiLThhOWEtOTJiZWNiZTVlOTI2IiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Adidas Retail Sales Performance Analysis.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image]()
 
+Tool used: Power BI
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[See More](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MmYxY2UtOWJkNi00YzZiLWE2MTQtOGY4MTFmNmY3YmYyIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
