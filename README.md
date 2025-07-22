@@ -23,7 +23,7 @@ Beyond data wrangling, I specialize in generating business insights through data
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Edenbridge Superstore dashboard.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
