@@ -29,7 +29,7 @@ Tool used: Power BI
 This project provides a detailed analysis of a superstore's sales performance from 2010 to 2013. It covers key business metrics such as total sales, profit/loss, processing time, customer orders, and regional performance. Through interactive dashboards, I highlighted trends in order volume, sales by region, and top-performing products. The goal was to generate insights that support better decision-making around inventory, customer targeting, and operational efficiency.
 
 
-[See More](https://app.powerbi.com/view?r=eyJrIjoiODVhYTM1OWMtNjI4OS00NzFiLThhOWEtOTJiZWNiZTVlOTI2IiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
+[See Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVhYTM1OWMtNjI4OS00NzFiLThhOWEtOTJiZWNiZTVlOTI2IiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
 **Adidas Retail Sales Performance Analysis.**
 
@@ -38,7 +38,7 @@ This project provides a detailed analysis of a superstore's sales performance fr
 Tool used: Power BI
 This dashboard analyzes the retail sales performance of various footwear and apparel products across multiple channels in 2020 and 2021. It highlights key metrics such as total sales, total units sold, profit, and sales distribution by retailer, product category, gender, region, and sales method. The insights reveal top-performing retailers, customer preferences, and seasonal trends in monthly sales. The goal was to identify opportunities for growth and optimize sales strategies based on data-driven insights. 
 
-[See More](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MmYxY2UtOWJkNi00YzZiLWE2MTQtOGY4MTFmNmY3YmYyIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
+[See Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MmYxY2UtOWJkNi00YzZiLWE2MTQtOGY4MTFmNmY3YmYyIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
 
 **An Analysis on International Breweries Sales Report.**
 
