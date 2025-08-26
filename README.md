@@ -69,7 +69,7 @@ In this project, I examined the dataset that was provided by international brewe
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Emmanuel O. Obisesan.pdf">Download my CV</a></td>
+      <td><a href="Emmanuel Obisesan O._ CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
