@@ -22,6 +22,21 @@ Beyond data wrangling, I specialize in generating business insights through data
 
 *A glimpse of some of the projects I've been working on.*
 
+**Sales & Customer Insights Dashboard.**
+![image](Screenshot (2).png)
+
+Tool used: Power BI
+This project delivers a comprehensive analysis of sales and customer performance between 2003 and 2005. The dashboard is designed across two pages:
+
+Sales Performance Dashboard – Focused on business metrics such as total sales, total orders, average order value (AOV), year-over-year growth, and deal size contribution. It also includes visuals on sales by country, sales by product line, and sales trends over time, with interactive filters for year, deal size, product line, and quarter.
+
+Customer Insights Dashboard – Focused on customer-related metrics, including total customers, percentage of shipped vs. cancelled orders, order distribution by quarter, quantity ordered vs. total sales, customer repeat orders, and top customers by sales value. A detailed product line table provides further insights into order counts and quantities across regions.
+
+The dashboards are fully interactive, enabling stakeholders to drill down by product line, country, deal size, and time periods. Insights generated include identification of top-performing markets, most valuable customers, seasonality in sales, and customer engagement patterns. The goal was to create an executive-level reporting solution that supports data-driven decisions in sales strategy, customer retention, and operational efficiency.
+
+
+[See Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY0YzBjY2QtNDAzZi00Yzk1LTljYTYtNzI1NjQ4ZDUwMjVlIiwidCI6IjdjZDg4NzM5LWJlMGQtNDVjMC04YWY5LWI0YjBiN2IzYWVkYSJ9)
+
 **Edenbridge Sales Performance Dashboard.**
 ![image](Edenbridge Superstore dashboard.png)
 
