@@ -26,6 +26,7 @@ Beyond data wrangling, I specialize in generating business insights through data
 ![image](Screenshot (2).png)
 
 Tool used: Power BI
+
 This project delivers a comprehensive analysis of sales and customer performance between 2003 and 2005. The dashboard is designed across two pages:
 
 Sales Performance Dashboard – Focused on business metrics such as total sales, total orders, average order value (AOV), year-over-year growth, and deal size contribution. It also includes visuals on sales by country, sales by product line, and sales trends over time, with interactive filters for year, deal size, product line, and quarter.
